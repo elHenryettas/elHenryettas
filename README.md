@@ -1,6 +1,5 @@
 ### Hola, Soy Henry 👋
-#### Soy un Fullstack Junior con ganas de aprender cada dia algo nuevo en este mundo de la programacion.
-
+#### Soy un Fullstack Junior con ganas de aprender cada dia algo nuevo en este mundo de la programacion. Familiarizado con metodologias agiles tales como: SCRUM ,y en menor medida: DDD. 
 
 
  <summary><h2 >En que me especifico?</h2></summary>
@@ -25,11 +24,11 @@
 
 ### Pasatiempos
 
-#### Me gusta mucho salir a andar en Rollers con amigos, leer algun Kafka, Nietzsche o Borges 📚, jugar videojuegos🎮, ayudar a mi padre en el Taller🔨 o hacer algo en el auto 🚗, entre otras cosas.
+#### Me gusta salir a andar en Rollers con amigos, leer algun Kafka, Nietzsche o Borges 📚, jugar videojuegos🎮, ayudar a mi padre en el Taller🔨 o hacer algo en el auto 🚗, entre otras cosas.
 
 ### Mas acerca de Mi
 - 🌱 Actualmente estoy estudiando: <b>TypeScript</b>,<b> Bases de datos</b>.
-- 💬 Estoy interesado en:  <b>Go</b>,<b> Python</b>,<b> Java</b>.
+- 💬 Estoy interesado en:  <b>Go</b>,<b> Python</b>.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elHenryettas&color=blue" alt="Profile views" /> </p>
   <hr>
   <h3>Contacta Conmigo:</h3>
