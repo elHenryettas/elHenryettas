@@ -12,7 +12,7 @@
 
 ### Mas acerca de Mi
 - 🌱 Actualmente estoy estudiando: <b>TypeScript</b>,<b> Sql</b>,<b> Go</b>.
-- 💬 Preguntame acerca de:  <b>Javascript</b>,<b> TypeScript</b>,<b> ReactJs</b>,<b> Nodejs</b>,<b> Sequelize</b>
+- 💬 Lenguajes y tecnologias:  <b>Javascript</b>,<b> TypeScript</b>,<b> ReactJs</b>,<b> Nodejs</b>, <b> ExpressJS</b>,<b> PostgresSQL</b>,<b> Redux</b>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elHenryettas&color=blue" alt="Profile views" /> </p>
   <hr>
   <h3>Contacta Conmigo:</h3>
@@ -24,7 +24,7 @@
   ![Snake animation](https://github.com/elHenryettas/elHenryettas/blob/output/github-contribution-grid-snake.svg)
 
 <div> 
-<img height='220em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=elHenryettas&layout=compact)](https://github.com/anuraghazra/github-readme-stats'/>
+<img height='230em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=elHenryettas&layout=compact)](https://github.com/anuraghazra/github-readme-stats'/>
 <img height='220em' src='https://github-readme-stats.vercel.app/api?username=elHenryettas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats'/>
 
   </div>
