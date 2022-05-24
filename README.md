@@ -1,7 +1,6 @@
 ### Hola, Soy Henry 👋
 #### Soy un Fullstack Junior con ganas de aprender cada dia algo nuevo en este mundo de la programacion. Familiarizado con metodologias agiles tales como: SCRUM ,y en menor medida: DDD. 
 
-
  <summary><h2 >En que me especifico?</h2></summary>
 <p>
 
@@ -24,7 +23,7 @@
 
 ### Pasatiempos
 
-#### Me gusta salir a andar en Rollers con amigos, leer algun Kafka, Nietzsche o Borges 📚, jugar videojuegos🎮, ayudar a mi padre en el Taller🔨 o hacer algo en el auto 🚗, entre otras cosas.
+#### Me gusta salir a andar en Rollers con amigos, estudio y juego ajedrez, leer algun Kafka, Nietzsche o Borges 📚, jugar videojuegos🎮, ayudar a mi padre en el Taller🔨 o hacer algo en el auto 🚗, entre otras cosas.
 
 ### Mas acerca de Mi
 - 🌱 Actualmente estoy estudiando: <b>TypeScript</b>,<b> Bases de datos</b>.
