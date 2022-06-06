@@ -1,5 +1,5 @@
 ### Hola, Soy Henry 👋
-#### Soy un Fullstack Junior con ganas de aprender cada dia algo nuevo en este mundo de la programacion. Familiarizado con metodologias agiles tales como: SCRUM ,y en menor medida: DDD. 
+#### Soy un Fullstack Junior con ganas de aprender cada dia algo nuevo en este mundo de la programacion. Familiarizado con metodologias agiles tales como: SCRUM.
 
  <summary><h2 >En que me especifico?</h2></summary>
 <p>
