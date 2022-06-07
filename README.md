@@ -26,7 +26,7 @@
 
 ### Mas acerca de Mi
 - 🌱 Actualmente estoy estudiando: <b>TypeScript</b>,<b> Bases de datos</b>, <b>Docker</b>, <b>Java</b>.
-- 💬 Estoy interesado en:  <b> Python</b>.
+- 💬 Estoy interesado en:  <b> Python</b>, <b> Flutter</b>.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elHenryettas&color=blue" alt="Profile views" /> </p>
   <hr>
   <h3>Contacta Conmigo:</h3>
