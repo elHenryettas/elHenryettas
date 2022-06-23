@@ -25,7 +25,7 @@
 #### Me gusta salir a andar en Rollers con amigos, estudio y juego ajedrez, leer algun Kafka, Nietzsche o Borges 📚, jugar videojuegos🎮, ayudar a mi padre en el Taller🔨 o hacer algo en el auto 🚗, entre otras cosas.
 
 ### Mas acerca de Mi
-- 🌱 Actualmente estoy estudiando: <b>Java</b>, <Spring>, <b>TypeScript</b>,<b> Bases de datos</b>, <b>Docker</b> y .
+- 🌱 Actualmente estoy estudiando: <b>Java</b>, <b>Spring</b>, <b>TypeScript</b>,<b> Bases de datos</b>, <b>Docker</b> y .
 - 💬 Tengo interes futuros en:  <b> Ciberseguridad</b>.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elHenryettas&color=blue" alt="Profile views" /> </p>
   <hr>
