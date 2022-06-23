@@ -1,3 +1,4 @@
+23/06/2022
 ### Hola, Soy Henry 👋
 #### Soy un Fullstack Junior con ganas de aprender cada dia algo nuevo en este mundo de la programacion. Familiarizado con metodologias agiles tales como: SCRUM.
 
